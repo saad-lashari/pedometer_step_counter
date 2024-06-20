@@ -1,16 +1,7 @@
-# cypherkicks
+# StepCounterApp
 
-A new Flutter project.
+A user-friendly step counter app built with Flutter. Tracks daily steps, provides detailed activity reports, and helps you stay motivated to achieve your fitness goals. Perfect for anyone looking to monitor and improve their physical activity.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screen Shoots
+![WhatsApp Image 2024-06-20 at 5 30 40 PM](https://github.com/saad-lashari/pedometer_step_counter/assets/106142001/31ea6409-6c44-4838-b9f8-3f8b5e788c80)
+![WhatsApp Image 2024-06-20 at 5 30 47 PM](https://github.com/saad-lashari/pedometer_step_counter/assets/106142001/c45acbca-fee0-45a4-9781-fc46ee6e3ad7)
